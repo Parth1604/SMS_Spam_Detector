@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spam SMS Detector</title>
+  <link rel="stylesheet" type="text/css" href="static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Message Input Form</h2>
+    <form method="post" action="predict">
+      <label for="msg">Enter your message (at least 5 words):</label><br>
+      <textarea id="msg" name="msg" rows="4" cols="50" required minlength="5"></textarea><br><br>
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+</body>
+</html>
