@@ -9,4 +9,5 @@
 + Deployed the user interface using Flask, allowing users to interact with the machine learning model through a web application.
 + Utilized the Multinomial Naive Bayes algorithm, a commonly used machine learning algorithm for text classification tasks, to address the problem of SMS spam detection.
 + Achieved an accuracy of 96.41% with the Multinomial Naive Bayes model, indicating its effectiveness in accurately classifying SMS messages as spam or legitimate.
+
 By employing NLP techniques, Python, Keras, and Flask, the project successfully developed a web application with a user-friendly interface for accurate identification and filtering of SMS spam messages. The utilization of the Multinomial Naive Bayes algorithm resulted in a high accuracy rate, contributing to an enhanced messaging experience for users.
